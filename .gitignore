@@ -33,3 +33,7 @@ PrimeioApp/.vs/PrimeioApp/v17/.suo
 PrimeioApp/PrimeioApp/obj/Debug/net7.0-windows10.0.19041.0/win10-x64/intermediatexaml/PrimeioApp.pdb
 PrimeioApp/PrimeioApp/obj/Debug/net7.0-windows10.0.19041.0/win10-x64/intermediatexaml/PrimeioApp.dll
 PrimeioApp/.vs/PrimeioApp/v17/.suo
+*.v2
+*.vsidx
+*.1
+*.v2
