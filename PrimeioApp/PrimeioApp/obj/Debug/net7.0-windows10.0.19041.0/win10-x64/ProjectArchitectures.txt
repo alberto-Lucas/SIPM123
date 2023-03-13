@@ -1,0 +1,1 @@
+C:\PM\PrimeioApp\PrimeioApp\PrimeioApp.csproj;x64

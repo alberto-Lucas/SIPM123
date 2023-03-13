@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeioApp.MainPage">
+    
+    <StackLayout Padding="30">
+        <Label Text="Primeiro App!" 
+               FontSize="50"
+               TextColor="Yellow"/>
+
+        <Entry Placeholder="Digite aqui"
+               FontSize="30" 
+               PlaceholderColor="Red"
+               TextColor="Blue"
+               x:Name="txtTexto"/>
+
+        <Button Text="Clique aqui"
+                BackgroundColor="Purple"
+                TextColor="White"
+                Clicked="btnClique"/>
+
+        <Label Text="Esq"
+               FontSize="50"/>
+        
+        <Label Text="Center"
+               FontSize="50"
+               HorizontalOptions="Center"/>
+        
+        <Label Text="End"
+               FontSize="50"
+               HorizontalOptions="End"/>
+        
+    </StackLayout>
+</ContentPage>
