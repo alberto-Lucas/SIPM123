@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>56f80761-5a9f-430c-b50b-d5e87209d5ee</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\PM\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\SIPM123\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>88F103F2676BC0DA4CE61C5C099C8846A53CD1B422DEC75E65C08EFD1514DEBF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>56f80761-5a9f-430c-b50b-d5e87209d5ee_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>56f80761-5a9f-430c-b50b-d5e87209d5ee_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\PM\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\SIPM123\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-07T01:08:35.858</Modified>
+      <Modified>2023-03-13T19:09:13.890</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-07T01:08:35.522</Modified>
+      <Modified>2023-03-13T19:09:13.508</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PrimeioApp.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PrimeioApp.runtimeconfig.json">
       <PackagePath>PrimeioApp.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-06T23:02:58.343</Modified>
+      <Modified>2023-03-13T19:09:13.231</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PrimeioApp.dll">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PrimeioApp.dll">
       <PackagePath>PrimeioApp.dll</PackagePath>
-      <Modified>2023-03-07T01:08:34.442</Modified>
+      <Modified>2023-03-13T19:09:11.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PrimeioApp.exe</PackagePath>
-      <Modified>2023-03-07T01:08:34.631</Modified>
+      <Modified>2023-03-13T19:09:11.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -917,9 +917,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PrimeioApp.deps.json">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\PrimeioApp.deps.json">
       <PackagePath>PrimeioApp.deps.json</PackagePath>
-      <Modified>2023-03-07T01:08:35.737</Modified>
+      <Modified>2023-03-13T19:09:13.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -933,239 +933,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T20:16:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-06T22:03:58.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.537</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:24.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-03-06T22:03:58.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-03-06T22:03:58.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-03-06T22:04:24.779</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:25.034</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:25.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:25.055</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:25.132</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-06T22:04:24.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-06T22:04:24.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-06T22:04:24.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-06T22:04:24.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-06T22:04:24.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-06T22:04:24.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-06T22:04:24.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-06T22:04:24.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-06T22:04:24.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-06T22:04:24.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.792</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:24.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-03-06T22:04:24.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-03-06T22:04:24.811</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-03-06T22:04:24.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-03-06T22:04:24.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-03-06T22:04:24.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.921</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:24.956</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.897</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.909</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:24.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:24.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.961</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.984</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.996</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:25.025</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-03-06T22:04:24.818</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-03-06T22:04:24.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-03-06T22:04:24.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-03-06T22:04:24.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\PM\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\SIPM123\PrimeioApp\PrimeioApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-03-06T22:04:24.903</Modified>
     </AppxPackagedFile>

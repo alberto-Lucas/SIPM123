@@ -24020,11 +24020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PM\\PrimeioApp\\PrimeioApp\\PrimeioApp.csproj",
+      "projectUniqueName": "C:\\SIPM123\\PrimeioApp\\PrimeioApp\\PrimeioApp.csproj",
       "projectName": "PrimeioApp",
-      "projectPath": "C:\\PM\\PrimeioApp\\PrimeioApp\\PrimeioApp.csproj",
+      "projectPath": "C:\\SIPM123\\PrimeioApp\\PrimeioApp\\PrimeioApp.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\PM\\PrimeioApp\\PrimeioApp\\obj\\",
+      "outputPath": "C:\\SIPM123\\PrimeioApp\\PrimeioApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
