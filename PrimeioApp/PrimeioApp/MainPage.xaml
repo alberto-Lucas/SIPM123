@@ -14,21 +14,37 @@
                TextColor="Blue"
                x:Name="txtTexto"/>
 
+        <StackLayout Orientation="Horizontal">
+            <CheckBox x:Name="ckbSenha"
+                      Color="Red"/>
+            <Label Text="Mostra Senha"
+                   HorizontalTextAlignment="Start"
+                   VerticalTextAlignment="Center"
+                   FontSize="20"
+                   TextColor="red"/>
+        </StackLayout>
+
+        <DatePicker x:Name="dtpData"/>
+        
         <Button Text="Clique aqui"
                 BackgroundColor="Purple"
                 TextColor="White"
                 Clicked="btnClique"/>
 
-        <Label Text="Esq"
+        <Button Text="Entrar"
+                Clicked="btnEntrar"/>
+
+        <StackLayout IsVisible="false">
+            <Label Text="Esq"
                FontSize="50"/>
-        
-        <Label Text="Center"
+
+            <Label Text="Center"
                FontSize="50"
                HorizontalOptions="Center"/>
-        
-        <Label Text="End"
+
+            <Label Text="End"
                FontSize="50"
                HorizontalOptions="End"/>
-        
+        </StackLayout>
     </StackLayout>
 </ContentPage>

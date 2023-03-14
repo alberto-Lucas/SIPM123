@@ -2,7 +2,7 @@
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
+	Utils utils = new Utils();
 
 	public MainPage()
 	{
@@ -12,8 +12,20 @@ public partial class MainPage : ContentPage
     private void btnClique(object sender, EventArgs e)
     {
 		DisplayAlert("Atenção", 
-			"Conteudo: " + txtTexto.Text, 
+			"Conteudo: " + txtTexto.Text + "\n" +
+			"Mostrar senha: " + 
+			utils.iif(ckbSenha.IsChecked, 
+					"SIM", "NÃO") + "\n" +
+			"Data curta: " + 
+			dtpData.Date.ToShortDateString() + "\n" +
+			"Data longa: " + 
+			dtpData.Date.ToLongDateString(), 
 			"Ok");
 	}
+
+    private void btnEntrar(object sender, EventArgs e)
+    {
+		Navigation.PushModalAsync(new PgPrincipal());
+    }
 }
 
