@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Atividade1.pgLogin"
+             Title="pgLogin"
+             Shell.NavBarIsVisible="False">
+    <VerticalStackLayout>
+        <StackLayout Padding="30">
+            <Label Text="Olá Mundo!"
+                   HorizontalTextAlignment="Center"
+                   FontSize="40"/>
+        </StackLayout>
+
+        <StackLayout Padding="30">
+        <Entry  Placeholder="Login"
+                FontSize="15"
+                x:Name="txtLogin"/>
+        <Entry  Placeholder="Senha"
+                FontSize="15"
+                x:Name="txtSenha"
+                IsPassword="True"
+                MaxLength="5"/>
+            <!--
+                Comentar código
+            -->
+        </StackLayout>
+
+        <StackLayout Padding="30, 0">
+        <Button Text="Entrar"
+                FontSize="20"
+                BackgroundColor="Blue"
+                TextColor="White"
+                Clicked="btnEntrar_Clicked"/>
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>
