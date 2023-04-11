@@ -12,6 +12,9 @@
         <StackLayout Padding="15,0">
             <Label Text="Olá xxx, seja bem-vindo!"
                    x:Name="lblLogin"/>
+
+            <Label Text="label Singleton"
+                   x:Name="lblSingleton"/>
         </StackLayout>
         <StackLayout Padding="30">
             <Label Text="Menu"

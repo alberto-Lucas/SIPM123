@@ -11,6 +11,13 @@ public partial class pgLogin : ContentPage
     {
 		if(ValidarLogin(txtLogin.Text, txtSenha.Text))
 		{
+			//atribuindo a instancia a variavel
+			var usuarioLogado = UsuarioLogado.Instancia;
+			//atribuindo valores aos atributos da
+			//classe singleton
+			usuarioLogado.IdUsuario = 1;
+			usuarioLogado.NomeUsuario = txtLogin.Text;
+
 			Navigation
 				.PushModalAsync
 				(new pgMenu(txtLogin.Text));

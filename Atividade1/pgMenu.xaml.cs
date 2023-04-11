@@ -8,6 +8,13 @@ public partial class pgMenu : ContentPage
         lblLogin.Text = 
             "Olá " + sParametro +
             ", Seja bem-vindo!";
+
+        var usuarioLogado = UsuarioLogado.Instancia;
+
+        lblSingleton.Text = usuarioLogado.NomeUsuario +
+            " salvo na classe singleton";
+
+
 	}
 
     private void btnVoltar_Clicked(object sender, EventArgs e)

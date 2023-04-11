@@ -217,7 +217,6 @@ C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
 C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.323.6910.dll
 C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -322,3 +321,4 @@ C:\PM\Atividade1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\PM\Atividade1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\PM\Atividade1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\PM\Atividade1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\PM\Atividade1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.423.11508.dll
