@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMenu.pgMenu"
+             Title="pgMenu"
+             xmlns:local="clr-namespace:AppMenu"
+             Shell.TabBarIsVisible="False"
+             Shell.BackgroundColor="Red"
+             Shell.TitleColor="Green"
+             Shell.ForegroundColor="Yellow"
+             Shell.NavBarIsVisible="False">
+    <FlyoutItem Route="principal"
+                FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="Principal"
+                      ContentTemplate=
+                      "{DataTemplate local:pgPrincipal}"
+                      Icon="iconhome.png"/>
+        <ShellContent Title="MainPage"
+                      ContentTemplate=
+                      "{DataTemplate local:MainPage}"/>
+    </FlyoutItem>
+    
+
+</Shell>

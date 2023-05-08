@@ -1,0 +1,1 @@
+C:\SIPM123\AppMenu\AppMenu.csproj;x64

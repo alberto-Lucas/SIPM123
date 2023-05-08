@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppDicionarioImgMenu
+build_property.ProjectDir = C:\SIPM123\AppDicionarioImgMenu\AppDicionarioImgMenu\
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/pgMenu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.pgMenu.xaml
+build_metadata.AdditionalFiles.TargetPath = pgMenu.xaml
+build_metadata.AdditionalFiles.RelativePath = pgMenu.xaml
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/pgPrincipal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.pgPrincipal.xaml
+build_metadata.AdditionalFiles.TargetPath = pgPrincipal.xaml
+build_metadata.AdditionalFiles.RelativePath = pgPrincipal.xaml
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/SIPM123/AppDicionarioImgMenu/AppDicionarioImgMenu/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppDicionarioImgMenu.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

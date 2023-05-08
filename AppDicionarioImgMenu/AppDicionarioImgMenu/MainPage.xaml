@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppDicionarioImgMenu.MainPage"
+             BackgroundColor="White"
+             Title="MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label  Text="Olá Mundo!"
+                    TextColor="{StaticResource corTitulo}"
+                    FontSize="{StaticResource tamanhoFontTitulo}"
+                    HorizontalTextAlignment="Center"/>
+
+            <Image Source="{StaticResource imgWorld}"
+                   HeightRequest="100"
+                   HorizontalOptions="Center"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Image Source="{StaticResource imgWorld}"
+                   HeightRequest="20"/>
+                <Image Source="{StaticResource imgWorld}"
+                   HeightRequest="20"/>
+                <Image Source="{StaticResource imgWorld}"
+                   HeightRequest="20"/>
+            </StackLayout>
+
+            <Label  Text="Título"
+                    TextColor="{StaticResource corTitulo}"
+                    FontSize="Large"/>
+
+            <Label  Text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est."
+                    TextColor="{StaticResource corTexto}"
+                    FontSize="Small"/>
+
+            <Label  Text="Saiba mais."
+                    TextColor="{StaticResource corSaibaMais}"
+                    FontSize="Small"/>
+
+            <Label  Text="Título 2"
+                    TextColor="{StaticResource corTituloClaro}"
+                    FontSize="Large"/>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

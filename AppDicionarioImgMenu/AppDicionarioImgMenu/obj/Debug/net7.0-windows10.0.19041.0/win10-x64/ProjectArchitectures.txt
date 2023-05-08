@@ -1,0 +1,1 @@
+C:\SIPM123\AppDicionarioImgMenu\AppDicionarioImgMenu\AppDicionarioImgMenu.csproj;x64
