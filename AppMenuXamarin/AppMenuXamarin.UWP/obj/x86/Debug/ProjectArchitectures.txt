@@ -1,0 +1,1 @@
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin.UWP\AppMenuXamarin.UWP.csproj;x86

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMenuXamarin.pgMenu"
+             xmlns:local="clr-namespace:AppMenuXamarin"
+             Shell.TabBarIsVisible="False"
+             Shell.BackgroundColor="Red"
+             Shell.TitleColor="Green"
+             Shell.ForegroundColor="Yellow">
+    <FlyoutItem Route="principal"
+                FlyoutDisplayOptions="AsMultipleItems">
+        
+        <ShellContent Title="Principal"
+                      ContentTemplate=
+                      "{DataTemplate local:pgPrincipal}"
+                      Icon="iconhome.png"/>
+        <ShellContent Title="MainPage"
+                      ContentTemplate=
+                      "{DataTemplate local:MainPage}"/>
+    </FlyoutItem>
+</Shell>

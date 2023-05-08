@@ -1,0 +1,17 @@
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\bin\Debug\netstandard2.0\AppMenuXamarin.deps.json
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\bin\Debug\netstandard2.0\AppMenuXamarin.dll
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\bin\Debug\netstandard2.0\ref\AppMenuXamarin.dll
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\bin\Debug\netstandard2.0\AppMenuXamarin.pdb
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.csproj.AssemblyReference.cache
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.AssemblyInfoInputs.cache
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.AssemblyInfo.cs
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.csproj.CoreCompileInputs.cache
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.dll
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\ref\AppMenuXamarin.dll
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\AppMenuXamarin.pdb
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\pgMenu.xaml.g.cs
+C:\SIPM123\AppMenuXamarin\AppMenuXamarin\obj\Debug\netstandard2.0\pgPrincipal.xaml.g.cs
