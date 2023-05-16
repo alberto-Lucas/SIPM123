@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CaraCoroa.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label Text="Cara ou Coroa?"
+                   FontSize="32"
+                   HorizontalOptions="Center"/>
+
+            <HorizontalStackLayout  
+                Spacing="25"
+                Padding="30,0"
+                HorizontalOptions="Center">
+
+                <ImageButton
+                    BackgroundColor="White"
+                    CornerRadius="10"
+                    Source="cara.png"
+                    x:Name="btnCara"
+                    Clicked="btnSelecaoClicked"/>
+
+                <ImageButton
+                    BackgroundColor="White"
+                    CornerRadius="10"
+                    Source="coroa.png"
+                    x:Name="btnCoroa"
+                    Clicked="btnSelecaoClicked"/>
+            </HorizontalStackLayout>
+
+            <Image
+                x:Name="imgCoin"
+                Source="pokecoin.png"
+                HorizontalOptions="Center"
+                HeightRequest="200"/>
+
+            <Button Text="JOGAR"
+                    x:Name="btnJogar"
+                    FontSize="24"
+                    BackgroundColor="White"
+                    TextColor="Black"
+                    WidthRequest="220"
+                    Clicked="btnJogarClicked"/>
+
+            <Label Text="-----"
+                   HorizontalOptions="Center"
+                   FontSize="24"
+                   TextColor="White"
+                   x:Name="lblSelecao"/>
+
+            <Label Text="-----"
+                   HorizontalOptions="Center"
+                   FontSize="24"
+                   TextColor="White"
+                   x:Name="lblResultado"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
