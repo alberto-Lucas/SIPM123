@@ -1,0 +1,11 @@
+C:\SIPM123\Aula4\bin\Debug\Aula4.exe.config
+C:\SIPM123\Aula4\bin\Debug\Aula4.exe
+C:\SIPM123\Aula4\bin\Debug\Aula4.pdb
+C:\SIPM123\Aula4\obj\Debug\Aula4.csproj.AssemblyReference.cache
+C:\SIPM123\Aula4\obj\Debug\Aula4.csproj.SuggestedBindingRedirects.cache
+C:\SIPM123\Aula4\obj\Debug\Aula4.Form1.resources
+C:\SIPM123\Aula4\obj\Debug\Aula4.Properties.Resources.resources
+C:\SIPM123\Aula4\obj\Debug\Aula4.csproj.GenerateResource.cache
+C:\SIPM123\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\SIPM123\Aula4\obj\Debug\Aula4.exe
+C:\SIPM123\Aula4\obj\Debug\Aula4.pdb

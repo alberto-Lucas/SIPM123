@@ -1,0 +1,1 @@
+C:\SIPM123\AulaScreenAnimation\AulaScreenAnimation.csproj;x64
