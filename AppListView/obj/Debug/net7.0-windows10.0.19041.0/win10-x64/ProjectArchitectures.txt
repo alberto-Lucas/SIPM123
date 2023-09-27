@@ -1,0 +1,1 @@
+C:\SIPM123\AppListView\AppListView.csproj;x64
